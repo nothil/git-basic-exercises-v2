@@ -1,0 +1,500 @@
+   71  cd ..
+   72  cd Downloads/
+   73  unzip apache-maven-3.3.9-bin.zip 
+   74  mv
+   75  cd apache-maven-3.3.9/bin/
+   76  mvn
+   77  cd ..
+   78  cd ..
+   79  export PATH="/Users/nancymabika/Downloads/apache-maven-3.3.9/bin:$PATH"
+   80  mvn -v
+   81  mvn -v
+   82  java -v
+   83  java -version
+   84  which java
+   85  export JAVA_HOME=/usr/bin/java
+   86  echo $JAVA_HOME
+   87  mvn -v
+   88  echo $JAVA_HOME
+   89  cd /usr/bin/java
+   90  which java
+   91  export JAVA_HOME=/Library/Java/Home
+   92  echo $JAVA_HOME
+   93  mvn -v
+   94  java -version
+   95  cd /Library/Java/
+   96  ls
+   97  cd Home
+   98  ls
+   99  java -version
+  100  cd ..
+  101  ls
+  102  cd ..
+  103  ls
+  104  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  105  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  106  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  107  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  108  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  109  which java
+  110  java -v
+  111  java -v
+  112  java -v
+  113  java -v
+  114  java -version
+  115  echo $JAVA_HOME
+  116  mvn -v
+  117  export MAVEN_HOME=/Users/nancymabika/Downloads/apache-maven-3.3.9/bin/
+  118  mvn -v
+  119  mvn -v
+  120  export PATH="/Users/nancymabika/Downloads/apache-maven-3.3.9/bin:$PATH"
+  121  mvn -v
+  122  echo $JAVA_HOME
+  123  java -version
+  124  rm -rf /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/
+  125  sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/
+  126  sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/
+  127  sudo rm -rf /Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/
+  128  java -version
+  129  cd /usr/bin/
+  130  ls
+  131  cd java
+  132  sudo rm -rf /System/Library/Java/
+  133  cd ..
+  134  cd ..
+  135  ls
+  136  sudo ln -sf /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents CurrentJDK
+  137  % sudo rm -rf /System/Library/Java/JavaVirtualMachines/1.6.0.jdk
+  138  sudo rm -rf /System/Library/Java/JavaVirtualMachines/1.6.0.jdk
+  139  udo rm -rf /Library/Java/JavaVirtualMachines/1.6.0*.jdk
+  140  sudo rm -rf /Library/Java/JavaVirtualMachines/1.6.0*.jdk
+  141  java -version
+  142  mvn -v
+  143  which java
+  144  export JAVA_HOME=/Library/Java/Home
+  145  mvn -v
+  146  export JAVA_HOME=$(/usr/libexec/java_home)
+  147  export PATH=$JAVA_HOME/jre/bin:$PATH
+  148  mvn -v
+  149  ls
+  150  cd Users/nancymabika/Documents/work/solutions/
+  151  l
+  152  ls
+  153  mvn clean install
+  154  mvn clean verify sonar:sonar
+  155  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  156  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  157  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  158  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  159  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  160  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  161  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  162  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  163  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  164  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  165  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  166  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  167  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  168  scp -i $keyfile 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/
+  169  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/
+  170  java -version
+  171  which java
+  172  find / -name java
+  173  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  174  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  175  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  176  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  177  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  178  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  179  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  180  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  181  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  182  cd Desktop/
+  183  ls
+  184  cd novateqni/
+  185  ls
+  186  git status
+  187  git add testApp.apk 
+  188  git commit -m "Committed some changes"
+  189  git push
+  190  git fetch
+  191  git status
+  192  git push
+  193  git pull
+  194  git push
+  195  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  196  git push
+  197  git status
+  198  git add -p
+  199  git add testApp.apk 
+  200  git status
+  201  cd ..
+  202  cd ..
+  203  cd Documents/
+  204  cd novateqni/
+  205  git status
+  206  git add testApp.apk 
+  207  git commit -m "Added a new file"
+  208  git push
+  209  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  210  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  211  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  212  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  213  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  214  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  215  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  216  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  217  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  218  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  219  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  220  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  221  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  222  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  223  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  224  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  225  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  226  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  227  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  228  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  229  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  230  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  231  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  232  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/images
+  233  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  234  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  235  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.jpg /Users/nancymabika/Desktop/images/
+  236  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.JPG /Users/nancymabika/Desktop/images/
+  237  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  238  scp  56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com:app-root/repo/uploads/*.JPG /Users/nancymabika/Desktop/images/
+  239  /Volumes/UBUNTU\ 16_0/ubuntu ; exit;
+  240  /Volumes/UBUNTU\ 16_0/ubuntu ; exit;
+  241  history
+  242  ssh 56de87920c1e666a400002ab@novateqni-novaupdater.rhcloud.com
+  243  ls
+  244  npm test
+  245  git -version
+  246  git --version
+  247  ls
+  248  cd Documents/
+  249  ls
+  250  mkdir angular-project
+  251  cd angular-project/
+  252  git clone --depth=16 https://github.com/angular/angular-phonecat.git
+  253  ls
+  254  cd angular-phonecat
+  255  ls
+  256  node -v
+  257  npm install
+  258  npm start
+  259  git checkout -f step -0
+  260  npm install
+  261  git checkout -f step-0
+  262      
+  263  angular phonecat
+  264  node--version
+  265  node --version
+  266  nodejs --version
+  267  apt-get install nodejs-legacy npm
+  268  apt -get install nodejs -legacy npm
+  269  node -v
+  270  apt nade -get install nodejs -legacy nmp
+  271  python -v
+  272  python -V
+  273  cd Desktop/practice/
+  274  python -m SimpleHTTPServer
+  275  top
+  276  sudo softwareupdate -i -a
+  277  cd Desktop/projects/html/practiceProject1/
+  278  ls
+  279  javac HelloJava.java 
+  280  clear
+  281  javac HelloJava.java 
+  282  java HelloJava
+  283  python MyFile.py 
+  284  python MyFile.py 
+  285  cd Desktop/javaScriptChallenges/
+  286  git init
+  287  git init
+  288  git status
+  289  git add .
+  290  git status
+  291  git remote add origin https://github.com/nothil/javaScriptChallenges.git
+  292  git status
+  293  git commit -m "Add files"
+  294  git push -u origin master
+  295  git push -u origin master
+  296  git pull origin master
+  297  git push -u origin master
+  298  git pull
+  299  git pull origin master
+  300  git branch --set-upstream-to=origin/master
+  301  git pull origin master
+  302  git push -u origin master
+  303  git pull origin master
+  304  git pull origin branchname --allow-unrelated-histories
+  305  git pull origin master --allow-unrelated-histories
+  306  git status
+  307  git push origin master
+  308  clear
+  309  git status
+  310  git status
+  311  git add .
+  312  git status
+  313  git commit -m "added semi colon"
+  314  git status
+  315  git push origin master
+  316  git status
+  317  git add
+  318  git status
+  319  git add capitaliseFirstletter.js
+  320  git status
+  321  git add CapitaliseFirstletter.js
+  322  git status
+  323  git add ConvertNumberToHours.js
+  324  git status
+  325  git add CurrentDateAndTime.js
+  326  git status
+  327  git add largestInterger.js
+  328  git status
+  329  git add largestInteger.js
+  330  git status
+  331  git add loadingPage.js
+  332  git status
+  333  git add index.html
+  334  git status
+  335  git commit -m "i capitalised the first letter, printed the larget integer"
+  336  git status
+  337  git push
+  338  git status
+  339  git status
+  340  ls
+  341  cd Desktop/
+  342  ls
+  343  cd javaScriptChallenges
+  344  ls
+  345  git status
+  346  ls
+  347  clear
+  348  /Volumes/HiSuite/Desktop\ DB ; exit;
+  349  cd ..
+  350   ls
+  351  $ mango
+  352  ls
+  353  clear
+  354  mkdir
+  355  cd
+  356  mkdir  nothilefolder
+  357  ls
+  358  clear
+  359  git
+  360  cd Desktop/javaScriptChallenges/
+  361  clear
+  362  ls -l
+  363  cleat
+  364  clear
+  365  git status
+  366  clear
+  367  git status
+  368  git checkout .
+  369  clear
+  370  git status
+  371  git fetch origin
+  372  git reset --hard origin/master
+  373  clear
+  374  git status
+  375  clear
+  376  git status
+  377  clear
+  378  git status
+  379  git status
+  380  git add -p
+  381  clear
+  382  git status
+  383  git commit -m "Separated my from string according to requirements"
+  384  clear
+  385  git status
+  386  git push origin master
+  387  git config --global --unset
+  388  git config --global --unset credential.helper
+  389  clear
+  390  git push origin master
+  391  clear
+  392  git log
+  393  git show c62d6590d25443c4f3ecf378cbf0656c76d4c496
+  394  clear
+  395  git pull origin master
+  396  git
+  397  ls
+  398  cd desktop
+  399  cd ..
+  400  clear
+  401  .bash_profile
+  402  CLICOLORS=1
+  403  LSCOLORS=...
+  404  clear
+  405  clear
+  406  ls desktop
+  407  pwd
+  408  mkdir workspace
+  409  ls
+  410  cd desktop
+  411  mkdir workSpace
+  412  ls
+  413  cd workSpace
+  414  touch README.md
+  415  cp README.md CHANGEME.md
+  416  ls
+  417  less -n  README.md
+  418  cd ..
+  419  mkdir documents
+  420  cd documents
+  421  touch pad.md
+  422  ls
+  423  cd
+  424  cd ..
+  425  cd desktop
+  426  cd ..
+  427  clear
+  428  man grep
+  429  ls
+  430  cd desktop
+  431  touch umuzi.md
+  432  touch recruits.md cohort.md
+  433  ls
+  434  echo " i am learning linux command using 
+  435  bash terminal,
+  436  i am really enjoying this experience :)" >>umuzi.md
+  437  cat -n umuzi.md
+  438  echo " i am also going to start with jS
+  439  To build my portfolio very soon :)
+  440  i am having fun big time." >>cohort.md
+  441  cat -n cohort.md
+  442  echo "echo is a command which allows you adadd the files contents  and edit 
+  443  touch is the command which allows you to add the file eithe inside or out side the folder" >>recruits.md
+  444  cat -n recruits.md
+  445  cat recruits.md umuzi.md cohort.md >summary.md
+  446  cat -n summary.md
+  447  cd /
+  448  ls
+  449  touch exercise.md
+  450  cd ..
+  451  toucch exercise.md
+  452  touch exercise.md
+  453  cd desktop
+  454  ls
+  455  cd home
+  456  touch exercise.md
+  457  clear
+  458  ls
+  459  cd desktop
+  460  cd ..
+  461  ls
+  462  lacate ".pdf"
+  463  lacate "*.pdf"
+  464  find . -type f -name "*.pdf"
+  465  find ./Downloads -type f -name "*.pdf"
+  466  ls
+  467  cd User
+  468  cd Users
+  469  ls
+  470  find ./Downloads -type f -name "*.csv"
+  471  find . -type f -name "*.csv"
+  472  locate "*.pdf"
+  473  clear
+  474  brew install terminator
+  475  sudo brew install terminator
+  476  cd ~
+  477  brew install terminator
+  478  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+  479  brew install terminator
+  480  ls
+  481  brew install terminator
+  482  echo 'export PATH="/usr/local/opt/gettext/bin:$PATH"' >> ~/.bash_profile
+  483  terminator
+  484  terminator -version
+  485  echo 'export PATH="/usr/local/opt/gettext/bin:$PATH"' >> ~/.bash_profile
+  486  ls
+  487  cd workspace
+  488  ls
+  489  ls
+  490  cd Desktop
+  491  cdc
+  492  cd workspace
+  493  ls
+  494  git init
+  495  git add . && git commit -m 'testing 123'
+  496  git remote add origin https://github.com/nothil/portfolio.git
+  497  git push origin master
+  498  clear
+  499  git status
+  500  git init
+  501  git status
+  502  clear
+  503  cd workspace
+  504  cd ..
+  505  cd projects
+  506  mkdir umuzi
+  507  cd umuzi
+  508  mkdir git-basic-exercises
+  509  cd git-basic-exercises
+  510  ls -a
+  511  git init
+  512  ls -a
+  513  git status
+  514  touch README.md
+  515  ls -a
+  516  git status
+  517  git log
+  518  git add README.md
+  519  git status
+  520  git rm --cached README.md
+  521  git status
+  522  git add README.md
+  523  git status
+  524  git commit -m "initial commit"
+  525  git status
+  526  clear
+  527  git log
+  528  nano README.md
+  529  cat -n README.md
+  530  git status
+  531  clear
+  532  git status
+  533  git add README.md 
+  534  git status
+  535  git commit -m "second commit"
+  536  git status
+  537  nano README.md
+  538  cat README.md
+  539  git status
+  540  git add README.md
+  541  git status
+  542  git commit -m "third commit"
+  543  clear
+  544  git log
+  545  clear
+  546  git log
+  547  cat README.md
+  548  git checkout 6ee02b0faec596808f567792fc5f2ab25853a8b4
+  549  cat README.md
+  550  git checkout master
+  551  cat README.md
+  552  clear
+  553  git branch
+  554  git branch milkshake-flavours
+  555  git branch
+  556  git checkout milkshake-flavours
+  557  git branch
+  558  touch milkshakes.md
+  559  git status
+  560  git log
+  561  nano milkshakes.md
+  562  cat milkshakes.md
+  563  git add milkshakes.md
+  564  git status
+  565  git commit -m "added initial flavours"
+  566  git log
+  567  git checkout master
+  568  git checkout -b history 
+  569  git log
+  570  history > history.txt
